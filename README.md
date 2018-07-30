@@ -1,5 +1,8 @@
 # 通过钉钉推送机器人消息推送Laravel异常
 
+[![Latest Stable Version](https://poser.pugx.org/jourdon/ding-exception/version)](https://github.com/jourdon/ding-exception)
+[![Total Downloads](https://poser.pugx.org/jourdon/ding-exception/downloads)](https://packagist.org/packages/jourdon/ding-exception)
+[![License](https://poser.pugx.org/jourdon/ding-exception/license)](https://packagist.org/packages/jourdon/ding-exception)
 
 ## 安装
 
@@ -38,3 +41,5 @@ class Handler extends ExceptionHandler
 
 
 ```
+## 示例
+![file](https://lccdn.phphub.org/uploads/images/201807/30/10512/yO9UoTEPfw.png?imageView2/2/w/1240/h/0)
