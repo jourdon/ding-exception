@@ -23,6 +23,10 @@ DING_ENABLED=true
 ```
 DING_TOKEN=your-token
 ```
+#### 是否显示Trace 默认为关闭
+```
+DING_TRACE=false
+```
 ## 使用方法
 
 ```
