@@ -3,7 +3,9 @@
 [![Latest Stable Version](https://poser.pugx.org/jourdon/ding-exception/version)](https://github.com/jourdon/ding-exception)
 [![Total Downloads](https://poser.pugx.org/jourdon/ding-exception/downloads)](https://packagist.org/packages/jourdon/ding-exception)
 [![License](https://poser.pugx.org/jourdon/ding-exception/license)](https://packagist.org/packages/jourdon/ding-exception)
-
+##要求
+* PHP版本: 7.1+
+* laravel版本:5.5+
 ## 安装
 
 `composer require jourdon/ding-exception`

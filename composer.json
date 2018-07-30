@@ -25,5 +25,15 @@
         "psr-4": {
             "Jourdon\\DingException\\Tests\\": "tests/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jourdon\\DingException\\DingExceptionServiceProvider"
+            ],
+            "aliases": {
+                "Slug": "Jourdon\\DingException\\DingException"
+            }
+        }
     }
 }
