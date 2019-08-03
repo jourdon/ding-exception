@@ -48,4 +48,4 @@ class Handler extends ExceptionHandler
 
 ```
 ## 示例
-![file](https://lccdn.phphub.org/uploads/images/201807/30/10512/yO9UoTEPfw.png?imageView2/2/w/1240/h/0)
+![file](https://cdn.phphub.org/uploads/images/201807/30/10512/yO9UoTEPfw.png?imageView2/2/w/1240/h/0)
